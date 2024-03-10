@@ -317,6 +317,9 @@ public class MyFrame extends JFrame implements ActionListener {
 		return result;
 	}
 	
+	private double updateText() {
+		return 0;
+	}
 	
 }
 
