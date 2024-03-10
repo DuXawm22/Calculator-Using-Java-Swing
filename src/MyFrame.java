@@ -317,5 +317,9 @@ public class MyFrame extends JFrame implements ActionListener {
 		return result;
 	}
 	
+	private double asdf() {
+		return 0;
+	}
+	
 }
 
